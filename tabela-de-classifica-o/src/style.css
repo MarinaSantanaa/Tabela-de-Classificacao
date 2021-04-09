@@ -1,0 +1,40 @@
+
+* {
+    text-align: center;
+}
+
+body {
+    min-height: 600px;
+    background-image: url('https://1.bp.blogspot.com/-57vm8ulDogM/X7iKn5KLA0I/AAAAAAAA5fk/HxV63NoQnEkj-8zVLVoWN1Peg9lQgc8tQCLcBGAsYHQ/s2560/cards_combination_black_192979_2560x1440.jpg');
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;  
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+table {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+h1 {
+    color: white;
+    font-family: 'Questrial', sans-serif;
+    margin: 50px 0;
+}
+
+th, tr, td {
+    border: solid 1px white;
+    color: white;
+}
